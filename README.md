@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# File Explorer
+
+An exercise in React (Javascript), creating a web-based file explorer.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
